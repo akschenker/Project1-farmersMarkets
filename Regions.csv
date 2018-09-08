@@ -1,0 +1,54 @@
+State,Region
+Illinois,Central
+Indiana,Central
+Kentucky,Central
+Missouri,Central
+Ohio,Central
+Tennessee,Central
+West Virginia,Central
+Iowa,East North Central
+Michigan,East North Central
+Minnesota,East North Central
+Wisconsin,East North Central
+Connecticut,Northeast
+Delaware,Northeast
+Maine,Northeast
+Maryland,Northeast
+Massachusetts,Northeast
+New Hampshire,Northeast
+New Jersey,Northeast
+Pennsylvania,Northeast
+Rhode Island,Northeast
+Vermont,Northeast
+New York,Northeast
+Idaho,Northwest
+Oregon,Northwest
+Washington,Northwest
+Arkansas,South
+Kansas,South
+Louisiana,South
+Mississippi,South
+Oklahoma,South
+Texas,South
+Alabama,Southeast
+Florida,Southeast
+Georgia,Southeast
+North Carolina,Southeast
+South Carolina,Southeast
+District of Columbia,Southeast
+Virginia,Southeast
+Arizona,Southwest
+Colorado,Southwest
+New Mexico,Southwest
+Utah,Southwest
+California,West
+Nevada,West
+Montana,West North Central
+Nebraska,West North Central
+North Dakota,West North Central
+South Dakota,West North Central
+Wyoming,West North Central
+Puerto Rico,Unique
+Hawaii,Unique
+Alaska,Unique
+Virgin Islands,Unique
