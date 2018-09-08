@@ -1,7 +1,7 @@
-﻿State ,Region
+﻿State,Region
 Illinois,Central
 Indiana,Central
-Kentucky ,Central
+Kentucky,Central
 Missouri,Central
 Ohio,Central
 Tennessee,Central
@@ -33,8 +33,8 @@ Texas,South
 Alabama,Southeast
 Florida,Southeast
 Georgia,Southeast
-North Carolina ,Southeast
-South Carolina ,Southeast
+North Carolina,Southeast
+South Carolina,Southeast
 District of Columbia,Southeast
 Virginia,Southeast
 Arizona,Southwest
@@ -47,7 +47,8 @@ Montana,West North Central
 Nebraska,West North Central
 North Dakota,West North Central
 South Dakota,West North Central
-Wyoming ,West North Central
-Puerto Rico ,Unique
+Wyoming,West North Central
+Puerto Rico,Unique
 Hawaii,Unique
 Alaska,Unique
+Virgin Islands,Unique
