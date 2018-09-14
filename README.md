@@ -2,14 +2,14 @@
 
 This is a submission for Project 1 of the UC Berkeley Data Analytics bootcamp. For this assignment, we chose to investigate various aspects of farmers' markets in the US. Some examples include the prevalence of farmers' markets, whether there is a relationship between prevalence of farmers' markets in an area and income of that area, and the distribution of well-rated farmers' markets, as determined by Yelp. To accomplish this task, we obtained a public dataset of farmers' markets from the US Department of Agriculture, cleaned the dataset, then performed analysis and made graphs using Matplotlib and gmaps.
 
-# Add results here
+Findings include that the highest concentration of farmers' markets is in the Northeast region of the US, the number of markets in a zipcode does not depend on the income or population of that zipcode, and the most highly rated farmers' markets are in metropolitan areas.
 
 
 ## Prerequisites
 
 A `config.py` file with personal API keys for [Google](https://developers.google.com/places/web-service/intro), [US Census](https://www.census.gov/developers/), and [Yelp](https://www.yelp.com/developers/documentation/v3) must be included for the notebooks to run properly. The notebooks should be run in an Anaconda 3 environment.
 
-The initial dataset, in CSV format, was obtained from the [US Department of Agriculture](https://catalog.data.gov/dataset/farmers-markets-geographic-data). To clean the data, run the Jupyter notebook entitled `Master Cleaning Notebook.ipynb`, followed by `Yelp_Ratings_Cleanup.ipynb`.
+The initial dataset, in CSV format, was obtained from the [US Department of Agriculture](https://catalog.data.gov/dataset/farmers-markets-geographic-data). To clean the data, run the Jupyter notebook entitled `Master Cleaning Notebook.ipynb`, followed by `Yelp_Ratings_Cleanup.ipynb`. To analyze, run the Jupyter notebook entitled `Master Analysis Notebook.ipnyb`.
 
 ## Data Wrangling
 
